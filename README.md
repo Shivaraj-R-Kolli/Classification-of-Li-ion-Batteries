@@ -1,2 +1,1 @@
-hi this is ml ml project
-lllll
+Implemented and evaluated multiple machine learning models, including Logistic Regression, Decision Trees, Random Forest, K-Nearest Neighbors, and Support Vector Machine (SVM), for classifying Li-ion batteries based on their crystal systems using Python and Scikit-learn.
